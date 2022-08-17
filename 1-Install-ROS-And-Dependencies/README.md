@@ -3,8 +3,17 @@
 
 ## Install ROS and Depencies
 
-### Script de Instalação
 
+### Script de Instalação
+``` bash
+$ cd "1-Install-ROS-And-Dependencies"
+```
+``` bash
+$ chmod +x install-ros-noetic.sh
+```
+``` bash
+$ ./install-ros-noetic.sh
+```
 
 
 ### Instalando Dependências dos Pacotes ROS
@@ -24,6 +33,10 @@ $ sudo apt-get install ros-kinetic-joy ros-kinetic-teleop-twist-joy \
 
 ```bash
 $ sudo apt-get install ros-kinetic-dynamixel-sdk
+```
+```bash
 $ sudo apt-get install ros-kinetic-turtlebot3-msgs
+```
+```bash
 $ sudo apt-get install ros-kinetic-turtlebot3
 ```
