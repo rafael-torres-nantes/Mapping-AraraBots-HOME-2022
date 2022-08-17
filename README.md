@@ -6,6 +6,41 @@ Repositório para os Participantes da AraraBots @Home, compartilharem suas infor
 $ sudo apt-get update
 ```
 
+# Informações do GIT
+
+## Iniciar o Repositório GIT
+
+```bash
+$ sudo apt-get update
+```
+```bash
+$ sudo apt-get update
+```
+```bash
+$ sudo apt-get update
+```
+```bash
+$ sudo apt-get update
+```
+
+## Salvar os Arquivos no GIT
+
+```bash
+$ git status
+```
+```bash
+$ git pull
+```
+```bash
+$ git add .
+```
+```bash
+$ git commit -m "Nome do Commit e das Alterações"
+```
+```bash
+$ git push --force origin master
+```
+
 ## Participantes
  - Arthur (Colocar Seus Sobrenomes)
  - João (Colocar Seus Sobrenomes)
