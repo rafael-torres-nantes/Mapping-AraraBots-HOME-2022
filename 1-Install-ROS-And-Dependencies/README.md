@@ -1,13 +1,15 @@
 # ROS-AraraBots-HOME-2022
 
-Repositório para os Participantes da AraraBots @Home, compartilharem suas informações a respeito do Mapeamento e Navegação do Robô
 
-```bash
-$ sudo apt-get update
-```
+## Install ROS and Depencies
 
-echo "[Instalando Dependências dos Pacotes ROS]"
+### Script de Instalação
 
+
+
+### Instalando Dependências dos Pacotes ROS
+
+``` bash
 $ sudo apt-get install ros-kinetic-joy ros-kinetic-teleop-twist-joy \
   ros-kinetic-teleop-twist-keyboard ros-kinetic-laser-proc \
   ros-kinetic-rgbd-launch ros-kinetic-depthimage-to-laserscan \
@@ -17,10 +19,11 @@ $ sudo apt-get install ros-kinetic-joy ros-kinetic-teleop-twist-joy \
   ros-kinetic-move-base ros-kinetic-urdf ros-kinetic-xacro \
   ros-kinetic-compressed-image-transport ros-kinetic-rqt* \
   ros-kinetic-gmapping ros-kinetic-navigation ros-kinetic-interactive-markers
+```
+### Instalando Pacotes do TurtleBot
 
-echo "[Instalando Pacotes do TurtleBot]"
-
+```bash
 $ sudo apt-get install ros-kinetic-dynamixel-sdk
 $ sudo apt-get install ros-kinetic-turtlebot3-msgs
 $ sudo apt-get install ros-kinetic-turtlebot3
-
+```
