@@ -11,16 +11,7 @@ $ sudo apt-get update
 ## Iniciar o Repositório GIT
 
 ```bash
-$ sudo apt-get update
-```
-```bash
-$ sudo apt-get update
-```
-```bash
-$ sudo apt-get update
-```
-```bash
-$ sudo apt-get update
+$ git init
 ```
 
 ## Salvar os Arquivos no GIT
