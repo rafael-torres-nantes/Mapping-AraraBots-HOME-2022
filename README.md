@@ -34,5 +34,5 @@ $ git push --force origin master
 
 ## Participantes
  - Arthur (Colocar Seus Sobrenomes)
- - João (Colocar Seus Sobrenomes)
+ - João Victor da Silva Santos
  - Rafael Torres Nantes
