@@ -19,24 +19,24 @@ $ ./install-ros-noetic.sh
 ### Instalando Dependências dos Pacotes ROS
 
 ``` bash
-$ sudo apt-get install ros-kinetic-joy ros-kinetic-teleop-twist-joy \
-  ros-kinetic-teleop-twist-keyboard ros-kinetic-laser-proc \
-  ros-kinetic-rgbd-launch ros-kinetic-depthimage-to-laserscan \
-  ros-kinetic-rosserial-arduino ros-kinetic-rosserial-python \
-  ros-kinetic-rosserial-server ros-kinetic-rosserial-client \
-  ros-kinetic-rosserial-msgs ros-kinetic-amcl ros-kinetic-map-server \
-  ros-kinetic-move-base ros-kinetic-urdf ros-kinetic-xacro \
-  ros-kinetic-compressed-image-transport ros-kinetic-rqt* \
-  ros-kinetic-gmapping ros-kinetic-navigation ros-kinetic-interactive-markers
+$ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
+  ros-noetic-teleonoeticp-twist-keyboard ros-noetic-laser-proc \
+  ros-noetic-rgbd-launch ros-noetic-depthimage-to-laserscan \
+  ros-noetic-rosserial-arduino ros-noetic-rosserial-python \
+  ros-noetic-rosserial-server ros-noetic-rosserial-client \
+  ros-noetic-rosserial-msgs ros-kinetic-amcl ros-noetic-map-server \
+  ros-noetic-move-base ros-kinetic-urdf ros-noetic-xacro \
+  ros-noetic-compressed-image-transport ros-noetic-rqt* \
+  ros-noetic-gmapping ros-kinetic-navigation ros-noetic-interactive-markers
 ```
 ### Instalando Pacotes do TurtleBot
 
 ```bash
-$ sudo apt-get install ros-kinetic-dynamixel-sdk
+$ sudo apt-get install ros-noetic-dynamixel-sdk
 ```
 ```bash
-$ sudo apt-get install ros-kinetic-turtlebot3-msgs
+$ sudo apt-get install ros-noetic-turtlebot3-msgs
 ```
 ```bash
-$ sudo apt-get install ros-kinetic-turtlebot3
+$ sudo apt-get install ros-noetic-turtlebot3
 ```
