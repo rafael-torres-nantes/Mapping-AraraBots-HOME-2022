@@ -25,9 +25,9 @@ $ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
   ros-noetic-rosserial-arduino ros-noetic-rosserial-python \
   ros-noetic-rosserial-server ros-noetic-rosserial-client \
   ros-noetic-rosserial-msgs ros-kinetic-amcl ros-noetic-map-server \
-  ros-noetic-move-base ros-kinetic-urdf ros-noetic-xacro \
+  ros-noetic-move-base ros-noetic-urdf ros-noetic-xacro \
   ros-noetic-compressed-image-transport ros-noetic-rqt* \
-  ros-noetic-gmapping ros-kinetic-navigation ros-noetic-interactive-markers
+  ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
 ```
 ### Instalando Pacotes do TurtleBot
 
