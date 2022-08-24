@@ -26,3 +26,8 @@ $ make
 $ sudo make install
 $ sudo ldconfig /usr/local/lib64/
 ```
+
+### Teste do Kinect
+``` bash
+freenect-glview
+```
