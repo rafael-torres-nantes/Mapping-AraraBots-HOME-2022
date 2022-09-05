@@ -2,19 +2,36 @@
 
 Repositório para os Participantes da AraraBots @Home, compartilharem suas informações a respeito do Mapeamento e Navegação do Robô
 
+## Atualizando o Sistema Ubuntu
+
 ```bash
 $ sudo apt-get update
 ```
 
-# Informações do GIT
+```bash
+$ sudo apt-get update
+```
 
-## Iniciar o Repositório GIT
+## Informações do GIT
+
+### Instalando o GIT
+
+```bash
+$ sudo apt-get install git
+```
+
+```bash
+$ sudo add-apt-repository ppa:git-core/ppa
+```
+
+
+### Iniciar o Repositório GIT
 
 ```bash
 $ git init
 ```
 
-## Salvar os Arquivos no GIT
+### Salvar os Arquivos no GIT
 
 ```bash
 $ git status
