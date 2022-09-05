@@ -7,6 +7,10 @@ sudo apt install ros-noetic-rtabmap-ros
 sudo apt-get install ros-noetic-depthimage-to-laserscan
 ```
 
+```bash
+echo export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/ros/noetic/lib/x86_64-linux-gnu >> ~/.bashrc
+```
+
 ### Função para Ativar o LaserScan
 
 ``` bash
