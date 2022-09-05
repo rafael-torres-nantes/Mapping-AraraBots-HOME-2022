@@ -31,3 +31,13 @@ $ sudo ldconfig /usr/local/lib64/
 ``` bash
 freenect-glview
 ```
+
+## Install Freenect_Stack
+
+``` bash
+$ cd ~/src
+``` 
+
+``` bash
+$ git clone https://github.com/ros-drivers/freenect_stack.git
+```
