@@ -50,6 +50,6 @@ $ git push --force origin master
 ```
 
 ## Participantes
- - Arthur (Colocar Seus Sobrenomes)
+ - Arthur Henrique Andrade Farias
  - João Victor da Silva Santos
  - Rafael Torres Nantes
