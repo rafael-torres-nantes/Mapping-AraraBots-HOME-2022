@@ -1,11 +1,14 @@
-# ROS-AraraBots-HOME-2022
+# Mapping-AraraBots-HOME-2022
 
 Repositório para os Participantes da AraraBots @Home, compartilharem suas informações a respeito do Mapeamento e Navegação do Robô
+
+## Bootar Pendrive e Sistema Operacional Ubuntu 22.04
+
 
 ## Atualizando o Sistema Ubuntu
 
 ```bash
-$ sudo apt-get update
+$ sudo apt-get upgrade
 ```
 
 ```bash
