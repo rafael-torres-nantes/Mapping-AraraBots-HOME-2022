@@ -8,11 +8,11 @@ Repositório para os Participantes da AraraBots @Home, compartilharem suas infor
 ## Atualizando o Sistema Ubuntu
 
 ```bash
-$ sudo apt-get upgrade
+$ sudo apt update -y
 ```
 
 ```bash
-$ sudo apt-get update
+$ sudo apt upgrade -y
 ```
 
 ## Informações do GIT
@@ -20,13 +20,12 @@ $ sudo apt-get update
 ### Instalando o GIT
 
 ```bash
-$ sudo apt-get install git
+$ sudo apt install git
 ```
 
 ```bash
 $ sudo add-apt-repository ppa:git-core/ppa
 ```
-
 
 ### Iniciar o Repositório GIT
 
@@ -54,5 +53,4 @@ $ git push --force origin master
 
 ## Participantes
  - Arthur Henrique Andrade Farias
- - João Victor da Silva Santos
  - Rafael Torres Nantes
