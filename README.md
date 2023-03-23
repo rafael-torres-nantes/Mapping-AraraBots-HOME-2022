@@ -24,6 +24,8 @@ $ sudo apt install git
 ```
 
 ```bash
+$ git config --global user.name "rafael-torres-nantes"
+$ git config --global user.email "rafatorresnantes@gmail.com"
 $ sudo add-apt-repository ppa:git-core/ppa
 ```
 
