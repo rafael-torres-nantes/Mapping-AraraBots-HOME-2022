@@ -8,11 +8,11 @@ Repositório para os Participantes da AraraBots @Home, compartilharem suas infor
 ## Atualizando o Sistema Ubuntu
 
 ```bash
-$ sudo apt update -y
+$ sudo apt update
 ```
 
 ```bash
-$ sudo apt upgrade -y
+$ sudo apt upgrade
 ```
 
 ## Informações do GIT
